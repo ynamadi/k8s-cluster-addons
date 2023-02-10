@@ -4,4 +4,3 @@ resources:
 - jetstack-repository.yaml
 - namespace.yaml
 - release.yaml
-- jetstack-repository.yaml
