@@ -11,8 +11,8 @@ spec:
       version: "1.10.x"
       sourceRef:
         kind: HelmRepository
-        name: cert-manager
-        namespace: cert-manager
+        name: jetstack
+        namespace: tanzu-helm-resources
       interval: 12h
   values:
     installCRDs: true
